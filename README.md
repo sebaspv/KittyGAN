@@ -1,2 +1,2 @@
 # KittyGAN
-GAN trained with the cat faces dataset to generate brand new cat images.
+GAN trained with [Kaggle's](https://www.kaggle.com/spandan2/cats-faces-64x64-for-generative-models) cat faces dataset to generate brand new cat images.
